@@ -1,2 +1,0 @@
-This is local change to file 
-This is second line change
